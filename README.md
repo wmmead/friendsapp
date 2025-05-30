@@ -5,7 +5,7 @@ Follow these steps to install and run the project on your local machine or a new
 ## 1. 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/friends.meadpoint.net.git
+git clone https://github.com/wmmead/friendsapp.git
 cd your/project/directory
 ```
 
