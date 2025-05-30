@@ -1,6 +1,6 @@
 # 🚀 Project Setup
 
-Follow these steps to install and run the project on your local machine or a new server:
+Follow these steps to install and run the project on your local machine or a new server. If you want to see how to set it up on a hosting service that has cPanel, you can check out these videos: <https://video.ucdavis.edu/playlist/dedicated/1_yg7lwcq2/>
 
 ## 1. 📦 Clone the Repository
 
